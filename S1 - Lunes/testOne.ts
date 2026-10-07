@@ -12,3 +12,5 @@ console.log(aprobado);
 console.log(number);
 console.log(hobbies);
 console.log(fechaFormateada);
+
+// Prueba
